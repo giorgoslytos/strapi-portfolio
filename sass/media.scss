@@ -1,0 +1,25 @@
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 992px) {
+  .m-5 {
+    margin: 3rem !important;
+  }
+  .mx-5 {
+    margin: 0 3rem !important;
+  }
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 768px) {
+  .m-5 {
+    margin: 2rem !important;
+  }
+  .mx-5 {
+    margin: 0 2rem !important;
+  }
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .m-5,
+  .mx-5 {
+    margin: 0 !important;
+  }
+}

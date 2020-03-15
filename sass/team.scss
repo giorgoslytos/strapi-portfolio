@@ -1,0 +1,20 @@
+.custom-label {
+  position: absolute;
+  height: 2rem;
+  bottom: -1rem;
+  width: 100%;
+  border-radius: 0 2rem 0 0;
+  background-color: #f1690e;
+  font-size: 1.2rem;
+}
+
+.profile-image {
+  background-image: url('/img/team/Katerina.jpg');
+  width: 300px;
+  height: 300px;
+  margin: 0.5rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  align-items: center;
+}

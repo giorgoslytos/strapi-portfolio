@@ -1,0 +1,11 @@
+@import 'typography.scss';
+@import 'hero.scss';
+@import 'about.scss';
+@import 'portfolio.scss';
+@import 'blog.scss';
+@import 'team.scss';
+@import 'contact.scss';
+@import 'media.scss';
+html {
+  scroll-behavior: smooth;
+}
